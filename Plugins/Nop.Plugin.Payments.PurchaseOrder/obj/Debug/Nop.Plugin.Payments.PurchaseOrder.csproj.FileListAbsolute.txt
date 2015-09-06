@@ -1,0 +1,10 @@
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\Configure.cshtml
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentPurchaseOrder\PaymentInfo.cshtml
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

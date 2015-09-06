@@ -1,0 +1,9 @@
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\WidgetsGoogleAnalytics\Configure.cshtml
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb

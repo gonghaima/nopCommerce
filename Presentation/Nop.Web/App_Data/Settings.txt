@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=HOME-PC\SQLEXPRESS;Initial Catalog=pms_nop;Integrated Security=False;Persist Security Info=False;User ID=pms;Password=pms

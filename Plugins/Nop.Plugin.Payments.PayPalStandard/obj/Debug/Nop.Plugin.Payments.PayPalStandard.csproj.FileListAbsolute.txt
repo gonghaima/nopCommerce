@@ -1,0 +1,10 @@
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\Configure.cshtml
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentPayPalStandard\PaymentInfo.cshtml
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb
