@@ -7,3 +7,4 @@ F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plu
 F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache

@@ -17,6 +17,7 @@ namespace Nop.Data
     public class NopObjectContext : DbContext, IDbContext
     {
         #region Ctor
+        public NopObjectContext() : base("Pro-nopCommerce") { }
 
         public NopObjectContext(string nameOrConnectionString)
             : base(nameOrConnectionString)

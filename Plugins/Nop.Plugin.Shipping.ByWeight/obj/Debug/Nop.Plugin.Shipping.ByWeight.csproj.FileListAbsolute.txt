@@ -10,3 +10,4 @@ F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Sh
 F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Shipping.ByWeight\Nop.Plugin.Shipping.ByWeight.pdb
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.dll
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Shipping.ByWeight\obj\Debug\Nop.Plugin.Shipping.ByWeight.csprojResolveAssemblyReference.cache

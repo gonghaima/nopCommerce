@@ -8,3 +8,4 @@ F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Pl
 F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.dll
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\Nop.Plugin.Payments.CheckMoneyOrder.csprojResolveAssemblyReference.cache

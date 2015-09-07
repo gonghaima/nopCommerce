@@ -32,3 +32,4 @@ F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.W
 F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Widgets.NivoSlider\Nop.Plugin.Widgets.NivoSlider.pdb
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.dll
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Widgets.NivoSlider\obj\Debug\Nop.Plugin.Widgets.NivoSlider.csprojResolveAssemblyReference.cache

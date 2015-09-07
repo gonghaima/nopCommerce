@@ -11,6 +11,7 @@ namespace Nop.Data.Mapping.Customers
             this.Property(u => u.Username).HasMaxLength(1000);
             this.Property(u => u.Email).HasMaxLength(1000);
             this.Property(u => u.SystemName).HasMaxLength(400);
+            this.Property(u => u.VendorBalance).IsOptional();
 
             this.Ignore(u => u.PasswordFormat);
 

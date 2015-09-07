@@ -8,3 +8,4 @@ F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plug
 F:\nopCommerce_3.60\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
 F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb
+F:\nopCommerce_3.60\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csprojResolveAssemblyReference.cache
