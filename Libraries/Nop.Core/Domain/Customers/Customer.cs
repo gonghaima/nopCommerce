@@ -39,7 +39,7 @@ namespace Nop.Core.Domain.Customers
         /// <summary>
         /// Gets or sets the username
         /// </summary>
-        public decimal VendorBalance{ get; set; }
+        public decimal? VendorBalance{ get; set; }
         /// <summary>
         /// Gets or sets the email
         /// </summary>

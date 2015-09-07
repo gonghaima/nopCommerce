@@ -36,6 +36,8 @@ using Nop.Web.Framework;
 using Nop.Web.Framework.Controllers;
 using Nop.Web.Framework.Kendoui;
 using Nop.Web.Framework.Mvc;
+using Nop.Core.Infrastructure;
+using Nop.Core.Domain.Customers;
 
 namespace Nop.Admin.Controllers
 {
@@ -933,6 +935,24 @@ namespace Nop.Admin.Controllers
 
             if (ModelState.IsValid)
             {
+                //if a vendor with balance greater than 10cents, deduct money
+                Customer customer = EngineContext.Current.Resolve<IWorkContext>().CurrentCustomer;
+                if (_workContext.CurrentVendor != null && customer.VendorBalance.HasValue) 
+                {
+                    if (customer.VendorBalance.Value >= 0.10m) 
+                    {
+                        customer.VendorBalance -= 0.10m;
+                        _customerService.UpdateCustomer(customer);
+                    }
+                    else 
+                    {
+                        return AccessDeniedView();
+                    }
+                }else if (_workContext.CurrentVendor != null && !customer.VendorBalance.HasValue) 
+                {
+                    return AccessDeniedView();
+                };
+
                 //a vendor should have access only to his products
                 if (_workContext.CurrentVendor != null)
                 {
@@ -976,6 +996,11 @@ namespace Nop.Admin.Controllers
                 _customerActivityService.InsertActivity("AddNewProduct", _localizationService.GetResource("ActivityLog.AddNewProduct"), product.Name);
                 
                 SuccessNotification(_localizationService.GetResource("Admin.Catalog.Products.Added"));
+
+                
+                
+                
+
                 return continueEditing ? RedirectToAction("Edit", new { id = product.Id }) : RedirectToAction("List");
             }
 

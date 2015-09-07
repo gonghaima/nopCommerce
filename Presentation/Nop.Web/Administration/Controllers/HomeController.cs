@@ -9,6 +9,8 @@ using Nop.Core;
 using Nop.Core.Caching;
 using Nop.Core.Domain.Common;
 using Nop.Services.Configuration;
+using Nop.Services.Customers;
+using Nop.Core.Infrastructure;
 
 namespace Nop.Admin.Controllers
 {
@@ -20,6 +22,8 @@ namespace Nop.Admin.Controllers
         private readonly ISettingService _settingService;
         private readonly IWorkContext _workContext;
         private readonly ICacheManager _cacheManager;
+        private readonly ICustomerService _customerService;
+        
 
         #endregion
 
@@ -46,6 +50,9 @@ namespace Nop.Admin.Controllers
         {
             var model = new DashboardModel();
             model.IsLoggedInAsVendor = _workContext.CurrentVendor != null;
+            ViewBag.vendorBalance = _workContext.CurrentCustomer.VendorBalance ?? 0;
+            //var Customer = EngineContext.Current.Resolve<IWorkContext>().CurrentCustomer;
+            
             return View(model);
         }
 

@@ -16,6 +16,10 @@
 </div>
 <table class="dashboard">
     @Html.Widget("admin_dashboard_top")
+@if (Model.IsLoggedInAsVendor)
+{
+    <h3>Your balance: $@ViewBag.vendorBalance</h3>
+}
     <tr>
         <td class="maincol">
             <div class="section-header">
