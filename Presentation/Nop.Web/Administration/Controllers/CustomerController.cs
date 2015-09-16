@@ -487,6 +487,7 @@ namespace Nop.Admin.Controllers
                 {
                     model.Email = customer.Email;
                     model.Username = customer.Username;
+                    model.VendorBalance = customer.VendorBalance;
                     model.VendorId = customer.VendorId;
                     model.AdminComment = customer.AdminComment;
                     model.IsTaxExempt = customer.IsTaxExempt;
@@ -959,6 +960,7 @@ namespace Nop.Admin.Controllers
             {
                 try
                 {
+                    customer.VendorBalance= model.VendorBalance;
                     customer.AdminComment = model.AdminComment;
                     customer.IsTaxExempt = model.IsTaxExempt;
                     customer.Active = model.Active;

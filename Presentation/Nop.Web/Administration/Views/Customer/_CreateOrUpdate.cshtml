@@ -163,6 +163,15 @@
         }
         <tr>
             <td class="adminTitle">
+                @Html.NopLabelFor(model => model.VendorBalance):
+            </td>
+            <td class="adminData">
+                @Html.EditorFor(model => model.VendorBalance)
+                @Html.ValidationMessageFor(model => model.VendorBalance)
+            </td>
+        </tr>
+        <tr>
+            <td class="adminTitle">
                 @Html.NopLabelFor(model => model.Email):
             </td>
             <td class="adminData">

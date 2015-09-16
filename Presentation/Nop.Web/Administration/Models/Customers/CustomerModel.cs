@@ -29,6 +29,10 @@ namespace Nop.Admin.Models.Customers
         public bool AllowUsersToChangeUsernames { get; set; }
         public bool UsernamesEnabled { get; set; }
 
+        [NopResourceDisplayName("Admin.Customers.Customers.Fields.VendorBalance")]
+        [AllowHtml]
+        public decimal? VendorBalance{ get; set; }
+
         [NopResourceDisplayName("Admin.Customers.Customers.Fields.Username")]
         [AllowHtml]
         public string Username { get; set; }
